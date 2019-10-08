@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">D20</string>
+    <string name="val_1">Critical Miss!</string>
+    <string name="val_20">Critical Hit!</string>
+</resources>
